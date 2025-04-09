@@ -32,12 +32,11 @@ I focused on building a welcoming and flavorful experience that reflects the Med
 - CSS3 for layout, responsiveness, transitions, and animation
 - JavaScript for mobile menu toggle functionality
 
-## 🔍 Preview
 
 ## 🔍 Preview
 
-![Homepage preview 1](https://raw.githubusercontent.com/pietronapoleao/little-lemon-homepage/refs/heads/main/assets/images/demo1.jpg)
-![Homepage preview 2](https://raw.githubusercontent.com/pietronapoleao/little-lemon-homepage/refs/heads/main/assets/images/demo2.jpg)
+![Homepage preview 2](https://raw.githubusercontent.com/pietronapoleao/little-lemon-homepage/refs/heads/main/assets/images/demo1.jpg)
+![Homepage preview 3](https://raw.githubusercontent.com/pietronapoleao/little-lemon-homepage/refs/heads/main/assets/images/demo2.jpg)
 
 
 ## How to Use
