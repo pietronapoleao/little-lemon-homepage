@@ -35,9 +35,8 @@ I focused on building a welcoming and flavorful experience that reflects the Med
 
 ## 🔍 Preview
 
-![Homepage preview 2](https://raw.githubusercontent.com/pietronapoleao/little-lemon-homepage/refs/heads/main/assets/images/demo1.jpg)
-![Homepage preview 3](https://raw.githubusercontent.com/pietronapoleao/little-lemon-homepage/refs/heads/main/assets/images/demo2.jpg)
-
+![Homepage preview 2](https://raw.githubusercontent.com/pietronapoleao/little-lemon-homepage/refs/heads/main/assets/images/demo1.png)
+![Homepage preview 3](https://raw.githubusercontent.com/pietronapoleao/little-lemon-homepage/refs/heads/main/assets/images/demo2.png)
 
 ## How to Use
 
